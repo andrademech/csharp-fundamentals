@@ -1,0 +1,14 @@
+C:\Herberth Andrade\dev\dotnet\console\bin\Debug\net8.0\console.exe
+C:\Herberth Andrade\dev\dotnet\console\bin\Debug\net8.0\console.deps.json
+C:\Herberth Andrade\dev\dotnet\console\bin\Debug\net8.0\console.runtimeconfig.json
+C:\Herberth Andrade\dev\dotnet\console\bin\Debug\net8.0\console.dll
+C:\Herberth Andrade\dev\dotnet\console\bin\Debug\net8.0\console.pdb
+C:\Herberth Andrade\dev\dotnet\console\obj\Debug\net8.0\console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Herberth Andrade\dev\dotnet\console\obj\Debug\net8.0\console.AssemblyInfoInputs.cache
+C:\Herberth Andrade\dev\dotnet\console\obj\Debug\net8.0\console.AssemblyInfo.cs
+C:\Herberth Andrade\dev\dotnet\console\obj\Debug\net8.0\console.csproj.CoreCompileInputs.cache
+C:\Herberth Andrade\dev\dotnet\console\obj\Debug\net8.0\console.dll
+C:\Herberth Andrade\dev\dotnet\console\obj\Debug\net8.0\refint\console.dll
+C:\Herberth Andrade\dev\dotnet\console\obj\Debug\net8.0\console.pdb
+C:\Herberth Andrade\dev\dotnet\console\obj\Debug\net8.0\console.genruntimeconfig.cache
+C:\Herberth Andrade\dev\dotnet\console\obj\Debug\net8.0\ref\console.dll
